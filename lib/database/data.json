@@ -1,0 +1,53 @@
+{
+  "users": {
+    "6283117190494@s.whatsapp.net": {
+      "isBanned": false,
+      "autoread": true,
+      "bun": true
+    },
+    "6283137918768@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "6283853186393@s.whatsapp.net": {},
+    "6285179836603@s.whatsapp.net": {}
+  },
+  "chats": {
+    "6283117190494@s.whatsapp.net": {
+      "isBanned": false,
+      "lastUpdate": null
+    },
+    "6283137918768@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "6283853186393@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "6285179836603@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "867051314767696@bot": {
+      "isBanned": false
+    },
+    "120363417436089465@g.us": {
+      "isBanned": false
+    },
+    "6283123448708@s.whatsapp.net": {
+      "isBanned": false,
+      "lastUpdate": null
+    },
+    "120363413917946617@g.us": {
+      "isBanned": false,
+      "lastUpdate": null
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "6283117190494@s.whatsapp.net": {
+      "autoread": false,
+      "public": true
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
